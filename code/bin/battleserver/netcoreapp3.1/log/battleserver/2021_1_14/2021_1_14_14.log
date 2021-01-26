@@ -1,0 +1,58 @@
+2021-01-14 14:00:36 INFO [connection.cs:239]  [Net] [Connection] ConnID=2 Close Socket 
+2021-01-14 14:00:36 INFO [connection.cs:239]  [Net] [Connection] ConnID=2 Close Socket 
+2021-01-14 14:00:36 INFO [ssserversession.cs:39]  [SSServerSession] OnTerminate SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 14:00:36 INFO [ssserversession.cs:39]  [SSServerSession] OnTerminate SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 14:00:36 INFO [ssserversession.cs:426]  [SSServerSessionMgr] RemoveSession SessionID=1 ServerID=500 
+2021-01-14 14:00:36 INFO [ssserversession.cs:426]  [SSServerSessionMgr] RemoveSession SessionID=1 ServerID=500 
+2021-01-14 14:00:39 INFO [connection.cs:239]  [Net] [Connection] ConnID=1 Close Socket 
+2021-01-14 14:00:39 INFO [connection.cs:239]  [Net] [Connection] ConnID=1 Close Socket 
+2021-01-14 14:00:40 INFO [ssclientsession.cs:194]  [SSClientSessionMgr] RemoveSession SessionID=1  
+2021-01-14 14:00:40 INFO [ssclientsession.cs:194]  [SSClientSessionMgr] RemoveSession SessionID=1  
+2021-01-14 14:00:40 INFO [ssclientsession.cs:66]  [SSClientSession] OnTerminate SessionID=1 
+2021-01-14 14:00:40 INFO [ssclientsession.cs:66]  [SSClientSession] OnTerminate SessionID=1 
+2021-01-14 14:00:40 INFO [ssserversession.cs:481]  [SSServerSessionMgr] Timeout Triggle ConnectCache Del SessionID=500,ServerID=500 
+2021-01-14 14:00:40 INFO [ssserversession.cs:481]  [SSServerSessionMgr] Timeout Triggle ConnectCache Del SessionID=500,ServerID=500 
+2021-01-14 14:00:40 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=2 
+2021-01-14 14:00:40 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=2 
+2021-01-14 14:00:40 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=2,Host=127.0.0.1 Port=100 
+2021-01-14 14:00:40 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=2,Host=127.0.0.1 Port=100 
+2021-01-14 14:00:40 INFO [servicediscoveryclient.cs:72]  [ServiceDiscoveryClient] Reconnect Session=2,Host=127.0.0.1 Port=100 
+2021-01-14 14:00:40 INFO [servicediscoveryclient.cs:72]  [ServiceDiscoveryClient] Reconnect Session=2,Host=127.0.0.1 Port=100 
+2021-01-14 14:00:40 ERROR [net.cs:164]  [Net] Host=127.0.0.1,Port=100 EndConnect Error=System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (111): Connection refused 127.0.0.1:100
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Framework.ETcp.Net.on_begin_connect(IAsyncResult result) in D:\main\serverset\csharp\engines\etcp\net\net.cs:line 164 
+2021-01-14 14:00:40 ERROR [net.cs:164]  [Net] Host=127.0.0.1,Port=100 EndConnect Error=System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (111): Connection refused 127.0.0.1:100
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Framework.ETcp.Net.on_begin_connect(IAsyncResult result) in D:\main\serverset\csharp\engines\etcp\net\net.cs:line 164 
+2021-01-14 14:03:46 INFO [server.cs:36]  Run Debug 
+2021-01-14 14:03:46 INFO [server.cs:36]  Run Debug 
+2021-01-14 14:03:46 INFO [staticdatamgr.cs:19]  [StaticDataMgr] Tip={ "datas": { "1": { "Id": 1, "Desc": "登录系统提示", "Str": "账号已存在" }, "2": { "Id": 2, "Desc": "登录系统提示", "Str": "账号不存在" }, "3": { "Id": 3, "Desc": "登录系统提示", "Str": "密码错误" }, "4": { "Id": 4, "Desc": "角色最大数量", "Value": 4 } } } 
+2021-01-14 14:03:46 INFO [staticdatamgr.cs:19]  [StaticDataMgr] Tip={ "datas": { "1": { "Id": 1, "Desc": "登录系统提示", "Str": "账号已存在" }, "2": { "Id": 2, "Desc": "登录系统提示", "Str": "账号不存在" }, "3": { "Id": 3, "Desc": "登录系统提示", "Str": "密码错误" }, "4": { "Id": 4, "Desc": "角色最大数量", "Value": 4 } } } 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=1 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=1 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=1,Host=127.0.0.1 Port=100 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=1,Host=127.0.0.1 Port=100 
+2021-01-14 14:03:46 INFO [battleserver.cs:34]  [BattleServer] Init Ok 
+2021-01-14 14:03:46 INFO [battleserver.cs:34]  [BattleServer] Init Ok 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:169]  [SSClientSessionMgr] AddSession SessionID=1 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:169]  [SSClientSessionMgr] AddSession SessionID=1 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:173]  [SSClientSessionMgr] AddSession Triggle ConnectCache Del SessionID=1 
+2021-01-14 14:03:46 INFO [ssclientsession.cs:173]  [SSClientSessionMgr] AddSession Triggle ConnectCache Del SessionID=1 
+2021-01-14 14:03:46 INFO [connection.cs:209]  [Net] [Connection] ConnID=1 StartRecvThread Socket Success 
+2021-01-14 14:03:46 INFO [connection.cs:209]  [Net] [Connection] ConnID=1 StartRecvThread Socket Success 
+2021-01-14 14:03:49 INFO [ssserversession.cs:418]  [SSServerSessionMgr] CreateSession=1 
+2021-01-14 14:03:49 INFO [ssserversession.cs:418]  [SSServerSessionMgr] CreateSession=1 
+2021-01-14 14:03:49 INFO [ssserversession.cs:282]  [SSServerSessionMgr] ConnectCache Add SessionID=1,ServerID=500 
+2021-01-14 14:03:49 INFO [ssserversession.cs:282]  [SSServerSessionMgr] ConnectCache Add SessionID=1,ServerID=500 
+2021-01-14 14:03:49 INFO [connection.cs:209]  [Net] [Connection] ConnID=2 StartRecvThread Socket Success 
+2021-01-14 14:03:49 INFO [connection.cs:209]  [Net] [Connection] ConnID=2 StartRecvThread Socket Success 
+2021-01-14 14:03:49 INFO [ssserversession.cs:400]  [SSServerSessionMgr] AddSession SessionID=1 
+2021-01-14 14:03:49 INFO [ssserversession.cs:400]  [SSServerSessionMgr] AddSession SessionID=1 
+2021-01-14 14:03:49 INFO [ssserversession.cs:20]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Send Verify Req 
+2021-01-14 14:03:49 INFO [ssserversession.cs:20]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Send Verify Req 
+2021-01-14 14:04:46 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 14:04:46 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 14:04:46 INFO [ssserversession.cs:481]  [SSServerSessionMgr] Timeout Triggle ConnectCache Del SessionID=500,ServerID=500 
+2021-01-14 14:04:46 INFO [ssserversession.cs:481]  [SSServerSessionMgr] Timeout Triggle ConnectCache Del SessionID=500,ServerID=500 

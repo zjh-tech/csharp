@@ -1,0 +1,66 @@
+2021-01-14 16:00:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:00:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:01:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:01:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:02:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:02:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:03:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:03:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:04:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:04:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:05:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:05:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:06:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:06:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:07:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:07:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:08:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:08:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:09:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:09:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:10:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:10:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:11:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:11:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:12:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:12:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:13:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:13:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:13:41 WARN [timermgr.cs:35]  [Timer] Time Forward 
+2021-01-14 16:13:41 WARN [timermgr.cs:35]  [Timer] Time Forward 
+2021-01-14 16:13:41 WARN [timermgr.cs:35]  [Timer] Time Forward 
+2021-01-14 16:13:41 WARN [timermgr.cs:35]  [Timer] Time Forward 
+2021-01-14 16:13:41 WARN [timermgr.cs:35]  [Timer] Time Forward 
+2021-01-14 16:13:41 WARN [timermgr.cs:35]  [Timer] Time Forward 
+2021-01-14 16:14:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:14:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:15:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:15:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:16:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:16:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:17:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:17:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:18:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:18:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:19:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:19:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:20:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:20:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:21:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:21:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:22:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:22:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:23:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:23:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 16:23:38 INFO [connection.cs:239]  [Net] [Connection] ConnID=1 Close Socket 
+2021-01-14 16:23:38 INFO [connection.cs:239]  [Net] [Connection] ConnID=1 Close Socket 
+2021-01-14 16:23:38 INFO [ssclientsession.cs:194]  [SSClientSessionMgr] RemoveSession SessionID=1  
+2021-01-14 16:23:38 INFO [ssclientsession.cs:194]  [SSClientSessionMgr] RemoveSession SessionID=1  
+2021-01-14 16:23:38 INFO [ssclientsession.cs:66]  [SSClientSession] OnTerminate SessionID=1 
+2021-01-14 16:23:38 INFO [ssclientsession.cs:66]  [SSClientSession] OnTerminate SessionID=1 
+2021-01-14 16:23:39 INFO [connection.cs:239]  [Net] [Connection] ConnID=2 Close Socket 
+2021-01-14 16:23:39 INFO [connection.cs:239]  [Net] [Connection] ConnID=2 Close Socket 
+2021-01-14 16:23:39 INFO [ssserversession.cs:39]  [SSServerSession] OnTerminate SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 16:23:39 INFO [ssserversession.cs:39]  [SSServerSession] OnTerminate SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 16:23:39 INFO [ssserversession.cs:426]  [SSServerSessionMgr] RemoveSession SessionID=1 ServerID=500 
+2021-01-14 16:23:39 INFO [ssserversession.cs:426]  [SSServerSessionMgr] RemoveSession SessionID=1 ServerID=500 

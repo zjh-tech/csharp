@@ -1,0 +1,106 @@
+2021-01-14 15:33:26 INFO [server.cs:36]  Run Debug 
+2021-01-14 15:33:26 INFO [server.cs:36]  Run Debug 
+2021-01-14 15:33:26 INFO [staticdatamgr.cs:19]  [StaticDataMgr] Tip={ "datas": { "1": { "Id": 1, "Desc": "登录系统提示", "Str": "账号已存在" }, "2": { "Id": 2, "Desc": "登录系统提示", "Str": "账号不存在" }, "3": { "Id": 3, "Desc": "登录系统提示", "Str": "密码错误" }, "4": { "Id": 4, "Desc": "角色最大数量", "Value": 4 } } } 
+2021-01-14 15:33:26 INFO [staticdatamgr.cs:19]  [StaticDataMgr] Tip={ "datas": { "1": { "Id": 1, "Desc": "登录系统提示", "Str": "账号已存在" }, "2": { "Id": 2, "Desc": "登录系统提示", "Str": "账号不存在" }, "3": { "Id": 3, "Desc": "登录系统提示", "Str": "密码错误" }, "4": { "Id": 4, "Desc": "角色最大数量", "Value": 4 } } } 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=1 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=1 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=1,Host=127.0.0.1 Port=100 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=1,Host=127.0.0.1 Port=100 
+2021-01-14 15:33:26 INFO [battleserver.cs:34]  [BattleServer] Init Ok 
+2021-01-14 15:33:26 INFO [battleserver.cs:34]  [BattleServer] Init Ok 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:169]  [SSClientSessionMgr] AddSession SessionID=1 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:169]  [SSClientSessionMgr] AddSession SessionID=1 
+2021-01-14 15:33:26 INFO [connection.cs:209]  [Net] [Connection] ConnID=1 StartRecvThread Socket Success 
+2021-01-14 15:33:26 INFO [connection.cs:209]  [Net] [Connection] ConnID=1 StartRecvThread Socket Success 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:173]  [SSClientSessionMgr] AddSession Triggle ConnectCache Del SessionID=1 
+2021-01-14 15:33:26 INFO [ssclientsession.cs:173]  [SSClientSessionMgr] AddSession Triggle ConnectCache Del SessionID=1 
+2021-01-14 15:33:29 INFO [ssserversession.cs:418]  [SSServerSessionMgr] CreateSession=1 
+2021-01-14 15:33:29 INFO [ssserversession.cs:418]  [SSServerSessionMgr] CreateSession=1 
+2021-01-14 15:33:29 INFO [ssserversession.cs:282]  [SSServerSessionMgr] ConnectCache Add SessionID=1,ServerID=500 
+2021-01-14 15:33:29 INFO [ssserversession.cs:282]  [SSServerSessionMgr] ConnectCache Add SessionID=1,ServerID=500 
+2021-01-14 15:33:29 INFO [connection.cs:209]  [Net] [Connection] ConnID=2 StartRecvThread Socket Success 
+2021-01-14 15:33:29 INFO [connection.cs:209]  [Net] [Connection] ConnID=2 StartRecvThread Socket Success 
+2021-01-14 15:33:29 INFO [ssserversession.cs:400]  [SSServerSessionMgr] AddSession SessionID=1 
+2021-01-14 15:33:29 INFO [ssserversession.cs:400]  [SSServerSessionMgr] AddSession SessionID=1 
+2021-01-14 15:33:29 INFO [ssserversession.cs:20]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Send Verify Req 
+2021-01-14 15:33:29 INFO [ssserversession.cs:20]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Send Verify Req 
+2021-01-14 15:33:29 INFO [connection.cs:239]  [Net] [Connection] ConnID=2 Close Socket 
+2021-01-14 15:33:29 INFO [connection.cs:239]  [Net] [Connection] ConnID=2 Close Socket 
+2021-01-14 15:33:29 INFO [ssserversession.cs:39]  [SSServerSession] OnTerminate SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 15:33:29 INFO [ssserversession.cs:39]  [SSServerSession] OnTerminate SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 15:33:29 INFO [ssserversession.cs:426]  [SSServerSessionMgr] RemoveSession SessionID=1 ServerID=500 
+2021-01-14 15:33:29 INFO [ssserversession.cs:426]  [SSServerSessionMgr] RemoveSession SessionID=1 ServerID=500 
+2021-01-14 15:38:32 INFO [server.cs:36]  Run Debug 
+2021-01-14 15:38:32 INFO [server.cs:36]  Run Debug 
+2021-01-14 15:38:32 INFO [staticdatamgr.cs:19]  [StaticDataMgr] Tip={ "datas": { "1": { "Id": 1, "Desc": "登录系统提示", "Str": "账号已存在" }, "2": { "Id": 2, "Desc": "登录系统提示", "Str": "账号不存在" }, "3": { "Id": 3, "Desc": "登录系统提示", "Str": "密码错误" }, "4": { "Id": 4, "Desc": "角色最大数量", "Value": 4 } } } 
+2021-01-14 15:38:32 INFO [staticdatamgr.cs:19]  [StaticDataMgr] Tip={ "datas": { "1": { "Id": 1, "Desc": "登录系统提示", "Str": "账号已存在" }, "2": { "Id": 2, "Desc": "登录系统提示", "Str": "账号不存在" }, "3": { "Id": 3, "Desc": "登录系统提示", "Str": "密码错误" }, "4": { "Id": 4, "Desc": "角色最大数量", "Value": 4 } } } 
+2021-01-14 15:38:32 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=1 
+2021-01-14 15:38:32 INFO [ssclientsession.cs:186]  [SSClientSessionMgr] CreateSession=1 
+2021-01-14 15:38:33 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=1,Host=127.0.0.1 Port=100 
+2021-01-14 15:38:33 INFO [ssclientsession.cs:150]  [SSClientSessionMgr] ConnectCache Add SessionID=1,Host=127.0.0.1 Port=100 
+2021-01-14 15:38:33 INFO [battleserver.cs:34]  [BattleServer] Init Ok 
+2021-01-14 15:38:33 INFO [battleserver.cs:34]  [BattleServer] Init Ok 
+2021-01-14 15:38:33 INFO [ssclientsession.cs:169]  [SSClientSessionMgr] AddSession SessionID=1 
+2021-01-14 15:38:33 INFO [ssclientsession.cs:169]  [SSClientSessionMgr] AddSession SessionID=1 
+2021-01-14 15:38:33 INFO [ssclientsession.cs:173]  [SSClientSessionMgr] AddSession Triggle ConnectCache Del SessionID=1 
+2021-01-14 15:38:33 INFO [ssclientsession.cs:173]  [SSClientSessionMgr] AddSession Triggle ConnectCache Del SessionID=1 
+2021-01-14 15:38:33 INFO [connection.cs:209]  [Net] [Connection] ConnID=1 StartRecvThread Socket Success 
+2021-01-14 15:38:33 INFO [connection.cs:209]  [Net] [Connection] ConnID=1 StartRecvThread Socket Success 
+2021-01-14 15:38:36 INFO [ssserversession.cs:418]  [SSServerSessionMgr] CreateSession=1 
+2021-01-14 15:38:36 INFO [ssserversession.cs:418]  [SSServerSessionMgr] CreateSession=1 
+2021-01-14 15:38:36 INFO [ssserversession.cs:282]  [SSServerSessionMgr] ConnectCache Add SessionID=1,ServerID=500 
+2021-01-14 15:38:36 INFO [ssserversession.cs:282]  [SSServerSessionMgr] ConnectCache Add SessionID=1,ServerID=500 
+2021-01-14 15:38:36 INFO [connection.cs:209]  [Net] [Connection] ConnID=2 StartRecvThread Socket Success 
+2021-01-14 15:38:36 INFO [connection.cs:209]  [Net] [Connection] ConnID=2 StartRecvThread Socket Success 
+2021-01-14 15:38:36 INFO [ssserversession.cs:400]  [SSServerSessionMgr] AddSession SessionID=1 
+2021-01-14 15:38:36 INFO [ssserversession.cs:400]  [SSServerSessionMgr] AddSession SessionID=1 
+2021-01-14 15:38:36 INFO [ssserversession.cs:20]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Send Verify Req 
+2021-01-14 15:38:36 INFO [ssserversession.cs:20]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Send Verify Req 
+2021-01-14 15:38:36 INFO [ssserversession.cs:100]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Verify Ok 
+2021-01-14 15:38:36 INFO [ssserversession.cs:100]  [SSServerSession] SessionID=1,ServerID=500,ServerType=match Verify Ok 
+2021-01-14 15:38:36 INFO [ssserversession.cs:128]  [SSServerSession] OnVerify SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 15:38:36 INFO [ssserversession.cs:128]  [SSServerSession] OnVerify SessionID=1,ServerID=500,ServerType=match 
+2021-01-14 15:39:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:39:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:39:33 INFO [ssserversession.cs:481]  [SSServerSessionMgr] Timeout Triggle ConnectCache Del SessionID=500,ServerID=500 
+2021-01-14 15:39:33 INFO [ssserversession.cs:481]  [SSServerSessionMgr] Timeout Triggle ConnectCache Del SessionID=500,ServerID=500 
+2021-01-14 15:40:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:40:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:41:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:41:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:42:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:42:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:43:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:43:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:44:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:44:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:45:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:45:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:46:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:46:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:47:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:47:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:48:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:48:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:49:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:49:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:50:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:50:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:51:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:51:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:52:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:52:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:53:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:53:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:54:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:54:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:55:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:55:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:56:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:56:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:57:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:57:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:58:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:58:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:59:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 
+2021-01-14 15:59:32 INFO [ssserversession.cs:463]  [SSServerSessionMgr] OutPut ServerID=500,ServerType=5 

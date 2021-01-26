@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <OutputPath>../../bin/battleserver</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>../../bin/battleserver</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="elog">
+      <HintPath>..\..\engines\lib\$(Configuration)\elog.dll</HintPath>
+    </Reference>
+    <Reference Include="etcp">
+      <HintPath>..\..\engines\lib\$(Configuration)\etcp.dll</HintPath>
+    </Reference>
+    <Reference Include="etimer">
+      <HintPath>..\..\engines\lib\$(Configuration)\etimer.dll</HintPath>
+    </Reference>
+    <Reference Include="frame">
+      <HintPath>..\lib\$(Configuration)\netcoreapp3.1\frame.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>..\lib\$(Configuration)\netcoreapp3.1\Google.Protobuf.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
